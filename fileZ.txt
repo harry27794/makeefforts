@@ -1,0 +1,2 @@
+
+checking merge conflict without commiting the file
